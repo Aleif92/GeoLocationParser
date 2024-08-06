@@ -1,9 +1,28 @@
-﻿namespace GeoLocationParser;
+﻿
+
+namespace GeoLocationParser;
 
 class Program
 {
+    private static readonly ILog logger = new TacoLogger();
+    const string CsvPath = "TacoBell-US-AL.csv";
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        logger.LogInfo("Log Initialized");
+
+
+
+        File.ReadAllLines();
+
+
+
+
+
+
+
+
+
+
+
     }
 }
