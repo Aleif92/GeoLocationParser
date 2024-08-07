@@ -2,7 +2,7 @@ namespace GeoLocationParser
 {
      public class TacoParser
      {
-          readonly ILog logger = new TacoParser();
+          readonly ILog logger = new TacoLogger();
 
           public ITrackable Parse(string line)
           {

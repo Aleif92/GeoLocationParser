@@ -1,14 +1,18 @@
+using GeoLocationParser;
+
 namespace GeoLocationParserTest;
 
 public class UnitTest1
 {
     [Fact]
-    public void Test1()
+    public void ShouldReturnNonNullObject()
     {
+        var tacoParser = new TacoParser();
     }
+
     [Theory]
     [InlineData("34.073638, -84.677017, Taco Bell Acwort...", -84.677017)]
-    [InlineData("34.376395,-84.913185,Taco Bell Adairsvill...",-84.913185 )]
+    [InlineData("34.376395,-84.913185,Taco Bell Adairsvill...", -84.913185)]
     //Add additional inline data. Refer to your CSV file.
     public void ShouldParseLongitude(string line, double expected)
     {
@@ -25,5 +29,6 @@ public class UnitTest1
         var actual = tacoParser.Parse(line);
 
         //Assert
-        Assert.Equal(expected,actual.Location.Longitude);
+        Assert.Equal(expected, actual.Location.Longitude);
+    }
 }
