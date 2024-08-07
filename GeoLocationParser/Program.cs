@@ -1,5 +1,8 @@
 ﻿
-
+using System;
+using System.Linq;
+using System.IO;
+using GeoCoordinatePortable;
 namespace GeoLocationParser;
 
 class Program
@@ -31,8 +34,15 @@ class Program
 
         ITrackable tacobell1 = null;
         ITrackable tacobell2 = null;
-        
-        
+
+        double distance = 0;
+
+        for (int i = 0; i < lines.Length; i++)
+        {
+            var locA = new GeoCoordinate();
+        }
+
+
 
 
 
