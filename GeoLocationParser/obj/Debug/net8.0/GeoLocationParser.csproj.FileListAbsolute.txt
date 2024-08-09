@@ -13,3 +13,7 @@ C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\De
 C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\Debug\net8.0\GeoLocationParser.pdb
 C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\Debug\net8.0\GeoLocationParser.genruntimeconfig.cache
 C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\Debug\net8.0\ref\GeoLocationParser.dll
+C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\bin\Debug\net8.0\GeoCoordinate.NetCore.dll
+C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\bin\Debug\net8.0\Geolocation.dll
+C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\Debug\net8.0\GeoLocationParser.csproj.AssemblyReference.cache
+C:\Users\aleif\OneDrive\Desktop\repos\GeoLocationParser\GeoLocationParser\obj\Debug\net8.0\GeoLocat.9FEE74D6.Up2Date

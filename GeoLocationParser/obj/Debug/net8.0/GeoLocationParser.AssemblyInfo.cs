@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoLocationParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df026d812aca547cd345face9ed318c03328550")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc00ee5e369007f0cfa2dcdbe03e0c607c0f72c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoLocationParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoLocationParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

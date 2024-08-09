@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "V6/CP5myUsRt1UgYDdniAcJwHgT81xP6PnpkmXhD3W/KZWyUqYzebvf6A5uM3GXgp6eHO40sCidbo3s9ucShFQ==",
+  "dgSpecHash": "0eo0E7rMthsOJR9Gu+/KJJYEnMDEg4MViYtS+spteiEkCZx0WLm2XUs5HODiKw2nVATDuy+9L9gEN+1M/ZCOzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aleif\\OneDrive\\Desktop\\repos\\GeoLocationParser\\GeoLocationParser\\GeoLocationParser.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aleif\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\geolocation\\1.2.1\\geolocation.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

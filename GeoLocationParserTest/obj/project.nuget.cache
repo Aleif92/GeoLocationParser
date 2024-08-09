@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XgkSQ4enKd+nEe9s6pXIjwkdAa2aXFRPO9ZNMxyqUvUcARFXvESoNwkdZi0XqWauPv9iGX3gygxM9BtQuKrD2g==",
+  "dgSpecHash": "I1dx5CS+LgtML1mxLe9rj8HnJ+MA6XXre5YctBWYx6phKqv4PmSLg0JO+BX/3Q5BAh5DQC7UmEVHIh7YxmsMNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aleif\\OneDrive\\Desktop\\repos\\GeoLocationParser\\GeoLocationParserTest\\GeoLocationParserTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleif\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\geolocation\\1.2.1\\geolocation.1.2.1.nupkg.sha512",
     "C:\\Users\\aleif\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\aleif\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\aleif\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
