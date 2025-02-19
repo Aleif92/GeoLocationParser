@@ -17,6 +17,7 @@ namespace GeoLocationParser
 
                var latitude = double.Parse(cells[0]);
                var longitude = double.Parse(cells[1]);
+
                var name = cells[2];
 
                var point = new Point();
